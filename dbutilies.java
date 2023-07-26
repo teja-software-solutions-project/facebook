@@ -1,3 +1,3 @@
 hello world i am raviteja
-hello world
-this update to check git tech command
+
+this update to check git pull  command
